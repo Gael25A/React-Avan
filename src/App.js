@@ -37,8 +37,7 @@ function App() {
           {route === "login" && <Login />}
           {route === "register" && <Register />}
           {route === "shopping" && <Shopping />}
-          {route === "tasklist" && <TaskList />}
-          {user && <p>Usuario logueado: {user.email}</p>}
+          {route === "tasklist" && <TaskList />}          
         </main>
         <Footer />
       </div>      

@@ -27,7 +27,7 @@ const Header = () => {
       >
         <BiLogoFirebase className="text-2xl text-pink-600" />
         <span className="text-x1 font-semibold text-pink-600">
-          FireShopping v2
+          FireShopping v3
         </span>
       </div>
       <div className="flex gap-2">
